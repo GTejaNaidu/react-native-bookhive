@@ -16,6 +16,7 @@
     "cloudinary": "^2.6.0",
     "corn": "^0.0.1",
     "cors": "^2.8.5",
+    "cron": "^4.1.4",
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
     "jsonwebtoken": "^9.0.2",
